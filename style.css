@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  background: #eee;
+}
+
+.todo {
+  width: 300px;
+  margin: 100px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input {
+  padding: 8px;
+}
+
+button {
+  padding: 8px;
+  cursor: pointer;
+}
+
+li {
+  margin: 10px;
+}
+
+.done {
+  text-decoration: line-through;
+}
